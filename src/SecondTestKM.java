@@ -30,10 +30,7 @@ public class SecondTestKM {
 		
 		String s="Hello Welcome to Selenium";
 		String[] SArray=s.split(" ");
-		System.out.println(SArray[0]);
-		System.out.println(SArray[1]);
-		System.out.println(SArray[2]);
-		System.out.println(SArray[3]);
+		System.out.println(SArray[0]+SArray[1]+SArray[2]+SArray[3]);
 		
 	}
 
